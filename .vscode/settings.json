@@ -1,0 +1,17 @@
+{
+    "python.formatting.provider": "black",
+    "cSpell.words": [
+        "Economie",
+        "Enseignement",
+        "openwebsite",
+        "Santé",
+        "Scientifique",
+        "sociale",
+        "solidaire",
+        "Wallonie",
+        "wbsite",
+        "wbsitesoup",
+        "webscrapping"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
